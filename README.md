@@ -1,4 +1,4 @@
-# blendle - Topic-based Event Timeline
+# Blendle - Topic-based Event Timeline
 
 ## Challenge aspects
 1. Selecting articles belonging to a topic
